@@ -10,7 +10,7 @@ app.get('/', (req, res) => {
 });
 
 const alunos = [
-  { id: 1, nome: 'João' },
+  { id: 1, nome: 'Josão' },
   { id: 2, nome: 'Maria' },
   { id: 3, nome: 'Pedro' },
 ];
